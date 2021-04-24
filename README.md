@@ -1,7 +1,6 @@
-# SP_mini-project_hadoop
-## Post Sale Automobile Report
-![Design Blocks](https://cdn.autoversed.com/autoversed/wp-content/uploads/2020/08/shutterstock_1634989399-scaled.jpg)
-Image by: Tesla
+# Guided Capstone Financial Pipeline
+![Design Blocks](https://images.unsplash.com/photo-1568142557204-8757becbb6cb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2250&q=80)
+Image by: Uwe Conrad @unsplash
 
 ## Table of contents
 * [What is this?](#what-is-this)
