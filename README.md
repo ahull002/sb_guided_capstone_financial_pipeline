@@ -72,8 +72,4 @@ Project is created with:
 
 
 ## Local Execution
-
-
-## HadoopExecution
-
 ___
