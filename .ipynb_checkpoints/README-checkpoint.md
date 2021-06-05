@@ -50,7 +50,8 @@ To help the business teams do better analysis, we need to calculate supplement i
 > * The latest trade price before the quote.
 > * The latest 30 min moving average trade price before the quote.
 > * The bid and ask price movement (difference) from the previous day's last trade price.
-For example, given the last trade price of $30, bid price of $30.45 has a movement of $0.45.
+For example, given the last trade price of $30, bid price of $30.45 has a movement of
+$0.45.
 
 - __Step 5. Pipeline Orchestration:__
 > * Design one or multiple workflows to execute the individual job.
