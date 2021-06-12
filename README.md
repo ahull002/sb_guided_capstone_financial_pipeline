@@ -20,7 +20,7 @@ Spring Capital collects data on trades and quotes from multiple exchanges every 
 - Prior day closing price
 - 30-minute moving average trade price (Average price over the past 30 minutes, constantly updated. This is a common indicator which smooths the price trend and cuts down noise.)
 
-As a data engineer, you are asked to build a data pipeline that produces a dataset including the above indicators for the business analysts.
+In this project we have been asked to build a data pipeline that produces a dataset including the above indicators for the business analysts.
 
 
 ## How to use this?
@@ -50,7 +50,7 @@ To help the business teams do better analysis, we need to calculate supplement i
 > * The latest trade price before the quote.
 > * The latest 30 min moving average trade price before the quote.
 > * The bid and ask price movement (difference) from the previous day's last trade price.
-For example, given the last trade price of $30, bid price of $30.45 has a movement of $0.45.
+For example, given the last trade price of 30.00, bid price of 30.45 has a movement of 0.45.
 
 - __Step 5. Pipeline Orchestration:__
 > * Design one or multiple workflows to execute the individual job.
@@ -61,7 +61,8 @@ For example, given the last trade price of $30, bid price of $30.45 has a moveme
 ## Technologies
 Project is created with:
 
-- Hortonworks HDP Sandbox 3.0.0
+- Microsoft Azure
+- Databricks
 - Python 3.8+
 
 ==================================================
